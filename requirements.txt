@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+httpx
+python-dotenv
+email-validator
+sendgrid
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
